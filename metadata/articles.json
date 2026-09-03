@@ -631,7 +631,7 @@
     "date": "2026-08-21",
     "title": "AI+电商实战： 如何用 WorkBuddy + 影刀 RPA 优化你的 RPA 流程 （二）",
     "topic": "AI工具与工作流",
-    "source_url": "https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484831&idx=1&sn=2e908a8a26a4d5474a30fb2986194160&chksm=f221cb237b13345bb5eb1a87e0c05df24b11955a9d1aeae76aed7cf976878ae16d7568de1b81#rd",
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484831&idx=1&sn=2e908a8a26a4d5474a30fb2986194160&chksm=f23091ff879d90c818aa26a844ef811e65a2e77f2834f2d5bcb77864dcd70ea344ee3311d6c8#rd",
     "article_path": "articles/2026/2026-08-21-2220.md",
     "cover_path": "covers/2026/202608212220.jpg",
     "image_count": 17,
@@ -642,10 +642,32 @@
     "date": "2026-08-24",
     "title": "我用 WorkBuddy 一句话跑完了 亚马逊 关键词全链路（10 场景实测：选品→竞品→词库→Listing 方案）",
     "topic": "AI工具与工作流",
-    "source_url": "https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484876&idx=1&sn=7bb01325a94f27a5001a99cd24f44a8f&chksm=f2768bab681a5947746e23dab8d7e80c1774daf2f16e9c6ca952af107862d36bb5b4ab4ef956#rd",
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484876&idx=1&sn=7bb01325a94f27a5001a99cd24f44a8f&chksm=f2461d933b8c5e0b848b43ad6c85f6cc7892b9e61a879e3a64e69ba5147c8b3ec2ac76958019#rd",
     "article_path": "articles/2026/2026-08-24-1537.md",
     "cover_path": "covers/2026/202608241537.jpg",
     "image_count": 35,
+    "has_video": false
+  },
+  {
+    "id": "202608252109",
+    "date": "2026-08-25",
+    "title": "3000字教你如何用 Workbuddy 跑自动化任务? 三大场景实战 （附完整提示词）",
+    "topic": "AI工具与工作流",
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484893&idx=1&sn=fde4a594197c960efdc126a49dfc1205&chksm=f2dcab6f5843309663fc857b4662b6642f4e9f4c612bf248c2a5fcbff11d206fcdb6a39e9599#rd",
+    "article_path": "articles/2026/2026-08-25-2109.md",
+    "cover_path": "covers/2026/202608252109.jpg",
+    "image_count": 17,
+    "has_video": false
+  },
+  {
+    "id": "202608302214",
+    "date": "2026-08-30",
+    "title": "AI+办公实战：我用 豆包工作 做了一套飞书协作完整SOP（附Skill）",
+    "topic": "AI工具与工作流",
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485006&idx=1&sn=e6c83816e3c283e84db7958d77997cee&chksm=f2860b76496878806e0aeaadf66aed202922235db73a3300fb348e81af2fa34d3cec66268f20#rd",
+    "article_path": "articles/2026/2026-08-30-2214.md",
+    "cover_path": "covers/2026/202608302214.jpg",
+    "image_count": 45,
     "has_video": false
   }
 ]

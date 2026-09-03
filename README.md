@@ -2,8 +2,6 @@
 
 这里收录旺哥在微信公众号「AI应用实战派PRO」已经公开发布的文章，主要关注 AI 工具、真实工作流、电商数据分析、电商视觉与内容生产。
 
-历史文章原始署名包含「AI应用实战派pro」「AI罗盘指北针」和「你旺哥」；本仓库统一归入旺哥的内容档案，并为每篇保留微信公众号原文链接。
-
 ## 快速入口
 
 - [按主题浏览](indexes/topics.md)
@@ -15,8 +13,10 @@
 
 | 日期 | 文章 | 主题 | 原文 |
 |---|---|---|---|
-| 2026-08-24 | [我用 WorkBuddy 一句话跑完了 亚马逊 关键词全链路（10 场景实测：选品→竞品→词库→Listing 方案）](articles/2026/2026-08-24-1537.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484876&idx=1&sn=7bb01325a94f27a5001a99cd24f44a8f&chksm=f2768bab681a5947746e23dab8d7e80c1774daf2f16e9c6ca952af107862d36bb5b4ab4ef956#rd) |
-| 2026-08-21 | [AI+电商实战： 如何用 WorkBuddy + 影刀 RPA 优化你的 RPA 流程 （二）](articles/2026/2026-08-21-2220.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484831&idx=1&sn=2e908a8a26a4d5474a30fb2986194160&chksm=f221cb237b13345bb5eb1a87e0c05df24b11955a9d1aeae76aed7cf976878ae16d7568de1b81#rd) |
+| 2026-08-30 | [AI+办公实战：我用 豆包工作 做了一套飞书协作完整SOP（附Skill）](articles/2026/2026-08-30-2214.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485006&idx=1&sn=e6c83816e3c283e84db7958d77997cee&chksm=f2860b76496878806e0aeaadf66aed202922235db73a3300fb348e81af2fa34d3cec66268f20#rd) |
+| 2026-08-25 | [3000字教你如何用 Workbuddy 跑自动化任务? 三大场景实战 （附完整提示词）](articles/2026/2026-08-25-2109.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484893&idx=1&sn=fde4a594197c960efdc126a49dfc1205&chksm=f2dcab6f5843309663fc857b4662b6642f4e9f4c612bf248c2a5fcbff11d206fcdb6a39e9599#rd) |
+| 2026-08-24 | [我用 WorkBuddy 一句话跑完了 亚马逊 关键词全链路（10 场景实测：选品→竞品→词库→Listing 方案）](articles/2026/2026-08-24-1537.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484876&idx=1&sn=7bb01325a94f27a5001a99cd24f44a8f&chksm=f2461d933b8c5e0b848b43ad6c85f6cc7892b9e61a879e3a64e69ba5147c8b3ec2ac76958019#rd) |
+| 2026-08-21 | [AI+电商实战： 如何用 WorkBuddy + 影刀 RPA 优化你的 RPA 流程 （二）](articles/2026/2026-08-21-2220.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484831&idx=1&sn=2e908a8a26a4d5474a30fb2986194160&chksm=f23091ff879d90c818aa26a844ef811e65a2e77f2834f2d5bcb77864dcd70ea344ee3311d6c8#rd) |
 | 2026-08-07 | [我用 Workbuddy 做了一个数据分析完整sop(附课件）](articles/2026/2026-08-07-1824.md) | [电商数据与分析](indexes/topics/ecommerce-data-and-analysis.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484757&idx=1&sn=ba39890be7ca3fa348c18dd15589316c&chksm=f2d909098c0fdcad38c3c066f666da33fb00fc08d9712cafeaf5a479a7838e0eebdedb329480#rd) |
 | 2026-08-06 | [AI+电商实战：我用 Workbuddy 做了一个商品评价完整分析SOP（附Skill）](articles/2026/2026-08-06-1901.md) | [电商数据与分析](indexes/topics/ecommerce-data-and-analysis.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484723&idx=1&sn=aec447bd14e51d52b204de93280688c7&chksm=f2b2372f768fe1fcb80c7b8bfcb684bf55a3036230a6032d37b7b316b0f096ee11e82458c5b9#rd) |
 | 2026-07-31 | [一个Skill ：把近 10 小时视频交给 Codex，最后变成可读/可分享的可视化图文](articles/2026/2026-07-31-1819.md) | [内容与新媒体](indexes/topics/content-and-media.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484679&idx=1&sn=abca409318b2177b738b62941bdc7361&chksm=f2530fde1f31c3292edc02111a1ab345733c8d520a78500b13dbdc65f9bb5a6f2ea7a7f17d6f#rd) |
@@ -80,4 +80,3 @@
 文章正文与配图除特别注明外，采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans) 许可：允许署名分享，不允许商业使用，不允许修改后再发布。
 
 仓库中的辅助脚本如后续加入，将单独采用 MIT License。
-
