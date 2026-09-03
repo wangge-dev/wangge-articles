@@ -7,7 +7,8 @@
 - [按主题浏览](indexes/topics.md)
 - [文章元数据 JSON](metadata/articles.json)
 - [文章元数据 CSV](metadata/articles.csv)
-- [加入飞书社群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/)
+- [加入旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/)
+- [飞书 Skill 资料库](https://my.feishu.cn/wiki/DJMRwTyK2ifkkmk5FHPcZeP3nwc?table=tbl1SvuqTb3Vmeq4&view=vew95iuRuH)
 
 ## 全部文章
 
