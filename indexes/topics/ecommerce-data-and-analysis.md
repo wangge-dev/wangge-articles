@@ -1,0 +1,11 @@
+# 电商数据与分析
+
+- 2026-08-07 · [我用 Workbuddy 做了一个数据分析完整sop(附课件）](../../articles/2026/2026-08-07-1824.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484757&idx=1&sn=ba39890be7ca3fa348c18dd15589316c&chksm=f2d909098c0fdcad38c3c066f666da33fb00fc08d9712cafeaf5a479a7838e0eebdedb329480#rd)
+- 2026-08-06 · [AI+电商实战：我用 Workbuddy 做了一个商品评价完整分析SOP（附Skill）](../../articles/2026/2026-08-06-1901.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484723&idx=1&sn=aec447bd14e51d52b204de93280688c7&chksm=f2b2372f768fe1fcb80c7b8bfcb684bf55a3036230a6032d37b7b316b0f096ee11e82458c5b9#rd)
+- 2026-07-07 · [AI+电商：我用 Codex 改造了一个数据分析工作流](../../articles/2026/2026-07-07-1757.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484487&idx=1&sn=f08fe93d1f49e522c7a0a4e3cf439bf3&chksm=f27692e91c25728f8f210a9df11a7f8270b8fb999f0ec21d9839d44ca355f14b6cf8993a64e0#rd)
+- 2026-06-20 · [一个AI+电商Skill：上传商品表自动生成市场洞察分析报告](../../articles/2026/2026-06-20-1012.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484312&idx=1&sn=dab770ce951b295dbdc6f7295ea748dd&chksm=f27d9948f17d518ffdb28258c899838f0bba8a7b839f58f0577c86fa618c958c705c91c169c1#rd)
+- 2026-06-15 · [电商数据分析skill：输入一个商品链接自动生成多平台数据分析报告](../../articles/2026/2026-06-15-2142.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484264&idx=1&sn=42827f909be64973162250ea15ac8232&chksm=f2578b1cb8d33ac724678db7dc9510b2e2c7b497cc8c2a6014ff3e11acb8eec4f331d15a4da0#rd)
+- 2026-06-08 · [我用 Codex 蒸馏了 5 个同行竞品，做出一张电商打法地图](../../articles/2026/2026-06-08-2208.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484156&idx=1&sn=c279469f73dc2bb630cef05ac78ea770&chksm=f2dfc4f7c21519afbf97ee831b3f99fe0237e02b296c6304d685aa86cccadc5ed757bd49ef0d#rd)
+- 2026-06-02 · [AI电商实战教程：从0开始用 Codex+飞书 搭建小数据中台（附完整 SOP和资料包）](../../articles/2026/2026-06-02-1652.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484088&idx=1&sn=482f86a0c015e8419defacf96ecae6d9&chksm=f290490a483a557afd6400d84b9c655d5ef670f82ab920deb441fa552ffe55fdeb5197e1ed65#rd)
+- 2026-05-24 · [AI电商实战教程：从0开始拆解竞品并做竞品分析报告（附完整SOP）](../../articles/2026/2026-05-24-1256.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247483971&idx=1&sn=e038a4311aee861f1ed7d55a69bdfd47&chksm=f28522f10f03ed0ab12cd9b288a68e3397eb1c0ace5acca13e5264a1acc55be5368ac25e4ab9#rd)
+
