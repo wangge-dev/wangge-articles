@@ -9,6 +9,8 @@
 - [文章元数据 CSV](metadata/articles.csv)
 - [加入旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17fgnu76fy9/)
 - [飞书 Skill 资料库](https://my.feishu.cn/wiki/DJMRwTyK2ifkkmk5FHPcZeP3nwc?table=tbl1SvuqTb3Vmeq4&view=vew95iuRuH)
+- [旺哥 AI 生图网站](https://inkroom.ai/000a)
+- [旺哥资源导航：仓库简介、作图攻略与实战群](https://my.feishu.cn/docx/YmlJd9bWRocS8VxEE8JcSjLvnnf)
 
 已归档 **82 篇**，更新至 **2026-10-08**。
 
