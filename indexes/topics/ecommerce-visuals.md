@@ -1,5 +1,9 @@
 # 电商视觉与作图
 
+- 2026-10-08 · [2026 最新版 电商 AI 作图 完整指南攻略3.0（附完整提示词和SOP）](../../articles/2026/2026-10-08-1745.md) · [原文](https://mp.weixin.qq.com/s/6_RgkiHLtRJE4Ra1_Nk4Hw)
+- 2026-09-10 · [分享一个最新开源GPT-image-2.5 提示词库 电商/海报/人物全都有（每日持续更新）](../../articles/2026/2026-09-10-2210.md) · [原文](https://mp.weixin.qq.com/s/hXSDxH0ka3gcr4jYykztKw)
+- 2026-09-09 · [Codex 自动操作 Blender 做电商素材：建模-动画-视频，六大电商场景实操演示（另附跨境电商提示词模板）](../../articles/2026/2026-09-09-2137.md) · [原文](https://mp.weixin.qq.com/s/dfTjSJWsKi1cbPX-Dn7z3A)
+- 2026-09-02 · [分享一个 27.3K Star 开源 GPT-Image-2 提示词库 ：500+ 案例,20+ 模板以及 Skill（商品图/海报/动漫）](../../articles/2026/2026-09-02-2208.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485021&idx=1&sn=9656268ab448e5a534c1311fe23cf6af&chksm=f2ebde318d1cdb15e6733f011eb3987c2c56bfe8d29935e9c380e785666fd2d12e7328950c58#rd)
 - 2026-07-13 · [如何提高 Codex 的审美? 这五种方法让你的 Codex 审美提高一个档次](../../articles/2026/2026-07-13-1629.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484533&idx=1&sn=cc152a93792d47b4d127538878af3200&chksm=f254e6a39b5f392f22be8399ac7e569fb74b131ca8d3f064349035ad7bd68366a2676953f344#rd)
 - 2026-07-01 · [2026最新版电商 AI 作图完整指南小白看这篇就行了（附完整提示词）](../../articles/2026/2026-07-01-1804.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484450&idx=1&sn=ed42e1f1429a6bf6b2b678d067dc70f6&chksm=f2a5cba88dcabbd782c45a4bad031319e60e27f105e26ede90e406ab63bc10829ae57b3ab167#rd)
 - 2026-06-16 · [电商主图详情页诊断Skill :输入商品链接自动生成主图详情页诊断报告](../../articles/2026/2026-06-16-1953.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484273&idx=1&sn=af96ded2f1f505e20a120e88c08492e1&chksm=f23ae7967cfb34b1908874ce3d57f22a03fc611cf5cf5ad688e06c9d983c601193d2a5151648#rd)

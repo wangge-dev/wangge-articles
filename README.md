@@ -7,13 +7,42 @@
 - [按主题浏览](indexes/topics.md)
 - [文章元数据 JSON](metadata/articles.json)
 - [文章元数据 CSV](metadata/articles.csv)
-- [加入旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/)
+- [加入旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17fgnu76fy9/)
 - [飞书 Skill 资料库](https://my.feishu.cn/wiki/DJMRwTyK2ifkkmk5FHPcZeP3nwc?table=tbl1SvuqTb3Vmeq4&view=vew95iuRuH)
+
+已归档 **82 篇**，更新至 **2026-10-08**。
+
+<p align="center">
+  <a href="https://t2vq6a99kv.feishuapp.com/app/app_17fgnu76fy9/">
+    <img src="assets/feishu-community-qr.png" width="220" alt="扫码进入旺哥 AI 电商实战群">
+  </a>
+</p>
 
 ## 全部文章
 
 | 日期 | 文章 | 主题 | 原文 |
 |---|---|---|---|
+| 2026-10-08 | [2026 最新版 电商 AI 作图 完整指南攻略3.0（附完整提示词和SOP）](articles/2026/2026-10-08-1745.md) | [电商视觉与作图](indexes/topics/ecommerce-visuals.md) | [公众号原文](https://mp.weixin.qq.com/s/6_RgkiHLtRJE4Ra1_Nk4Hw) |
+| 2026-10-07 | [国庆假期 AI 圈消息全汇总。新闻/玩法技巧/大模型/教程 全都有](articles/2026/2026-10-07-1749.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s/H2m9Mgzr33MKkcvl0vApFQ) |
+| 2026-10-02 | [我是怎么用 WorkBuddy 定时任务，找到上架就出单的产品的（附完整提示词）](articles/2026/2026-10-02-1911.md) | [电商数据与分析](indexes/topics/ecommerce-data-and-analysis.md) | [公众号原文](https://mp.weixin.qq.com/s/9kC0dhBDxMp0dfmZOP_qxw) |
+| 2026-09-29 | [别再手动导出了：我把淘宝店铺数据下载做成了插件](articles/2026/2026-09-29-1858.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s/8C-mlfujWxzICktkMXXLGw) |
+| 2026-09-28 | [我用 Codex 手搓了一个可 DIY 的轻量数据中台](articles/2026/2026-09-28-1835.md) | [电商数据与分析](indexes/topics/ecommerce-data-and-analysis.md) | [公众号原文](https://mp.weixin.qq.com/s/jH0W1dE2iySszq0vTKRswQ) |
+| 2026-09-27 | [我们对GitHub的了解，可能还不及1%](articles/2026/2026-09-27-1740.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s/wOIv0ZesuK17WKrcoc8a4Q) |
+| 2026-09-24 | [Codex额度不够用？简单几步教你把闲置的网页版额度当Codex使用（附完整教程）](articles/2026/2026-09-24-1052.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s/KNEClKRozhomRT8eQmG2Iw) |
+| 2026-09-22 | [爆火的Jev到底能拿来干什么？我整理了20个玩法，从批量归类到操作浏览器](articles/2026/2026-09-22-2159.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s/rulcb9UK3tG8yAFYxMv2Ow) |
+| 2026-09-19 | [Codex+飞书自动化实战（一）：从安装到跑通，一篇讲清楚（附完整提示词）](articles/2026/2026-09-19-0923.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s/CweQ5uQIcUdJxImi1f6nrQ) |
+| 2026-09-17 | [我用 WorkBuddy 搭了一个7 个 Agent 的客服专家团](articles/2026/2026-09-17-2219.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s/tILm62j27LQTXtGIa_VORQ) |
+| 2026-09-15 | [正式介绍一下我们的AI+ 电商VIP实战交流群](articles/2026/2026-09-15-2231.md) | [其他](indexes/topics/other.md) | [公众号原文](https://mp.weixin.qq.com/s/T_rTzEwHl_VYNwPUqXmzrw) |
+| 2026-09-15 | [4000字教你从 0 开始用 WorkBuddy 搭建 自己的专家团（附完整SOP）](articles/2026/2026-09-15-1119.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s/XHCCvT6VYqBJOjOvcPrlIg) |
+| 2026-09-12 | [什么？Workbuddy也能用上GPT-6 Astra了（附使用教程）](articles/2026/2026-09-12-1042.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s/H3I0nXYf85ekJfVEIsu5ig) |
+| 2026-09-11 | [亚马逊评论不用一条条翻了：只需输入一个 ASIN，自动输出商品深度评论分析报告](articles/2026/2026-09-11-0937.md) | [电商数据与分析](indexes/topics/ecommerce-data-and-analysis.md) | [公众号原文](https://mp.weixin.qq.com/s/KvsgVsnoLFxBQtoU5_uFyw) |
+| 2026-09-10 | [分享一个最新开源GPT-image-2.5 提示词库 电商/海报/人物全都有（每日持续更新）](articles/2026/2026-09-10-2210.md) | [电商视觉与作图](indexes/topics/ecommerce-visuals.md) | [公众号原文](https://mp.weixin.qq.com/s/hXSDxH0ka3gcr4jYykztKw) |
+| 2026-09-09 | [Codex 自动操作 Blender 做电商素材：建模-动画-视频，六大电商场景实操演示（另附跨境电商提示词模板）](articles/2026/2026-09-09-2137.md) | [电商视觉与作图](indexes/topics/ecommerce-visuals.md) | [公众号原文](https://mp.weixin.qq.com/s/dfTjSJWsKi1cbPX-Dn7z3A) |
+| 2026-09-08 | [AI 电商实战：我用 WorkBuddy 搭建了一个电商情报站SOP，附 (完整提示词)](articles/2026/2026-09-08-1623.md) | [电商数据与分析](indexes/topics/ecommerce-data-and-analysis.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485161&idx=1&sn=2f6e98d063079070cfb25ce992a60d07&chksm=f20a66a10013e0241e9e1cc2ab2d4bcb91bfb3585fb830e0530a009e8fcba741a637f583f783#rd) |
+| 2026-09-07 | [我用 Codex 做了一个 深度数据分析 Skill (已开源）](articles/2026/2026-09-07-1533.md) | [电商数据与分析](indexes/topics/ecommerce-data-and-analysis.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485127&idx=1&sn=33a6a264758c5deacb777fae18238fd6&chksm=f2952be952b3e7bbb95da578bc4dd8ce6190ac809c058591ff2f4ea1bda825ad8db99e87d7aa#rd) |
+| 2026-09-06 | [GPT-6 Astra发布后，我整理了五段完美适配GPT-6 Astra的提示词，拿来就能用](articles/2026/2026-09-06-1058.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485067&idx=1&sn=5158fe1228d380ea3ded18db21252b86&chksm=f2cdac9ce180c3a3b1fac101bb889c72d219f61675c10a30120cdcdeabf11f6274b1964c8d66#rd) |
+| 2026-09-03 | [开源我的：公众号文章/ Skill /教程/资料包/提示词](articles/2026/2026-09-03-2237.md) | [其他](indexes/topics/other.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485055&idx=1&sn=cdbf21be1d98c7e0ca189d294414cff2&chksm=f22856e822fc723872cdb22add44051b93474619417ff767705fc940cfff4f7e739290062b92#rd) |
+| 2026-09-02 | [分享一个 27.3K Star 开源 GPT-Image-2 提示词库 ：500+ 案例,20+ 模板以及 Skill（商品图/海报/动漫）](articles/2026/2026-09-02-2208.md) | [电商视觉与作图](indexes/topics/ecommerce-visuals.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485021&idx=1&sn=9656268ab448e5a534c1311fe23cf6af&chksm=f2ebde318d1cdb15e6733f011eb3987c2c56bfe8d29935e9c380e785666fd2d12e7328950c58#rd) |
 | 2026-08-30 | [AI+办公实战：我用 豆包工作 做了一套飞书协作完整SOP（附Skill）](articles/2026/2026-08-30-2214.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485006&idx=1&sn=e6c83816e3c283e84db7958d77997cee&chksm=f2860b76496878806e0aeaadf66aed202922235db73a3300fb348e81af2fa34d3cec66268f20#rd) |
 | 2026-08-25 | [3000字教你如何用 Workbuddy 跑自动化任务? 三大场景实战 （附完整提示词）](articles/2026/2026-08-25-2109.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484893&idx=1&sn=fde4a594197c960efdc126a49dfc1205&chksm=f2dcab6f5843309663fc857b4662b6642f4e9f4c612bf248c2a5fcbff11d206fcdb6a39e9599#rd) |
 | 2026-08-24 | [我用 WorkBuddy 一句话跑完了 亚马逊 关键词全链路（10 场景实测：选品→竞品→词库→Listing 方案）](articles/2026/2026-08-24-1537.md) | [AI工具与工作流](indexes/topics/ai-tools-and-workflows.md) | [公众号原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484876&idx=1&sn=7bb01325a94f27a5001a99cd24f44a8f&chksm=f2461d933b8c5e0b848b43ad6c85f6cc7892b9e61a879e3a64e69ba5147c8b3ec2ac76958019#rd) |

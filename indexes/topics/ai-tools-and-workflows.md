@@ -1,5 +1,15 @@
 # AI工具与工作流
 
+- 2026-10-07 · [国庆假期 AI 圈消息全汇总。新闻/玩法技巧/大模型/教程 全都有](../../articles/2026/2026-10-07-1749.md) · [原文](https://mp.weixin.qq.com/s/H2m9Mgzr33MKkcvl0vApFQ)
+- 2026-09-29 · [别再手动导出了：我把淘宝店铺数据下载做成了插件](../../articles/2026/2026-09-29-1858.md) · [原文](https://mp.weixin.qq.com/s/8C-mlfujWxzICktkMXXLGw)
+- 2026-09-27 · [我们对GitHub的了解，可能还不及1%](../../articles/2026/2026-09-27-1740.md) · [原文](https://mp.weixin.qq.com/s/wOIv0ZesuK17WKrcoc8a4Q)
+- 2026-09-24 · [Codex额度不够用？简单几步教你把闲置的网页版额度当Codex使用（附完整教程）](../../articles/2026/2026-09-24-1052.md) · [原文](https://mp.weixin.qq.com/s/KNEClKRozhomRT8eQmG2Iw)
+- 2026-09-22 · [爆火的Jev到底能拿来干什么？我整理了20个玩法，从批量归类到操作浏览器](../../articles/2026/2026-09-22-2159.md) · [原文](https://mp.weixin.qq.com/s/rulcb9UK3tG8yAFYxMv2Ow)
+- 2026-09-19 · [Codex+飞书自动化实战（一）：从安装到跑通，一篇讲清楚（附完整提示词）](../../articles/2026/2026-09-19-0923.md) · [原文](https://mp.weixin.qq.com/s/CweQ5uQIcUdJxImi1f6nrQ)
+- 2026-09-17 · [我用 WorkBuddy 搭了一个7 个 Agent 的客服专家团](../../articles/2026/2026-09-17-2219.md) · [原文](https://mp.weixin.qq.com/s/tILm62j27LQTXtGIa_VORQ)
+- 2026-09-15 · [4000字教你从 0 开始用 WorkBuddy 搭建 自己的专家团（附完整SOP）](../../articles/2026/2026-09-15-1119.md) · [原文](https://mp.weixin.qq.com/s/XHCCvT6VYqBJOjOvcPrlIg)
+- 2026-09-12 · [什么？Workbuddy也能用上GPT-6 Astra了（附使用教程）](../../articles/2026/2026-09-12-1042.md) · [原文](https://mp.weixin.qq.com/s/H3I0nXYf85ekJfVEIsu5ig)
+- 2026-09-06 · [GPT-6 Astra发布后，我整理了五段完美适配GPT-6 Astra的提示词，拿来就能用](../../articles/2026/2026-09-06-1058.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485067&idx=1&sn=5158fe1228d380ea3ded18db21252b86&chksm=f2cdac9ce180c3a3b1fac101bb889c72d219f61675c10a30120cdcdeabf11f6274b1964c8d66#rd)
 - 2026-08-30 · [AI+办公实战：我用 豆包工作 做了一套飞书协作完整SOP（附Skill）](../../articles/2026/2026-08-30-2214.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485006&idx=1&sn=e6c83816e3c283e84db7958d77997cee&chksm=f2860b76496878806e0aeaadf66aed202922235db73a3300fb348e81af2fa34d3cec66268f20#rd)
 - 2026-08-25 · [3000字教你如何用 Workbuddy 跑自动化任务? 三大场景实战 （附完整提示词）](../../articles/2026/2026-08-25-2109.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484893&idx=1&sn=fde4a594197c960efdc126a49dfc1205&chksm=f2dcab6f5843309663fc857b4662b6642f4e9f4c612bf248c2a5fcbff11d206fcdb6a39e9599#rd)
 - 2026-08-24 · [我用 WorkBuddy 一句话跑完了 亚马逊 关键词全链路（10 场景实测：选品→竞品→词库→Listing 方案）](../../articles/2026/2026-08-24-1537.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484876&idx=1&sn=7bb01325a94f27a5001a99cd24f44a8f&chksm=f2461d933b8c5e0b848b43ad6c85f6cc7892b9e61a879e3a64e69ba5147c8b3ec2ac76958019#rd)

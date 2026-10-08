@@ -1,5 +1,7 @@
 # 其他
 
+- 2026-09-15 · [正式介绍一下我们的AI+ 电商VIP实战交流群](../../articles/2026/2026-09-15-2231.md) · [原文](https://mp.weixin.qq.com/s/T_rTzEwHl_VYNwPUqXmzrw)
+- 2026-09-03 · [开源我的：公众号文章/ Skill /教程/资料包/提示词](../../articles/2026/2026-09-03-2237.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485055&idx=1&sn=cdbf21be1d98c7e0ca189d294414cff2&chksm=f22856e822fc723872cdb22add44051b93474619417ff767705fc940cfff4f7e739290062b92#rd)
 - 2026-05-26 · [最新实测用7个大模型写文案,第一无悬念,Chatgpt竟然掉链子！](../../articles/2026/2026-05-26-1828.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484008&idx=1&sn=ab31382d9502ec49b53abb99fdc97dcf&chksm=f2c6383e1062d5ac890ba920cf195c723abf03edc0fac4c8d7a5f6910a712ea9b204368759b9#rd)
 - 2026-05-22 · [爆肝7天整理了一套25节AI思维课，免费分享给刚开始用AI的人](../../articles/2026/2026-05-22-1154.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247483956&idx=1&sn=5241523dfc4e48e409b54f927fb0122d&chksm=f29a228a9029ab99db06c13ce11fc3434a72ef13e0ef1343cb68cd633f56a3f3bbfe3aa2e8b5#rd)
 - 2026-05-03 · [教你怎么设置电商违禁词AI防火墙（附完整搭建流程）](../../articles/2026/2026-05-03-1929.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247483800&idx=1&sn=46d5e8edc16277742ea301b120c174d9&chksm=f2cf61ae32688df8b2313e45a71eaa5795bdda472694f38f7e168441cc91afc9aa716dd8c643#rd)

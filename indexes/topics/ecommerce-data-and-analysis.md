@@ -1,5 +1,10 @@
 # 电商数据与分析
 
+- 2026-10-02 · [我是怎么用 WorkBuddy 定时任务，找到上架就出单的产品的（附完整提示词）](../../articles/2026/2026-10-02-1911.md) · [原文](https://mp.weixin.qq.com/s/9kC0dhBDxMp0dfmZOP_qxw)
+- 2026-09-28 · [我用 Codex 手搓了一个可 DIY 的轻量数据中台](../../articles/2026/2026-09-28-1835.md) · [原文](https://mp.weixin.qq.com/s/jH0W1dE2iySszq0vTKRswQ)
+- 2026-09-11 · [亚马逊评论不用一条条翻了：只需输入一个 ASIN，自动输出商品深度评论分析报告](../../articles/2026/2026-09-11-0937.md) · [原文](https://mp.weixin.qq.com/s/KvsgVsnoLFxBQtoU5_uFyw)
+- 2026-09-08 · [AI 电商实战：我用 WorkBuddy 搭建了一个电商情报站SOP，附 (完整提示词)](../../articles/2026/2026-09-08-1623.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485161&idx=1&sn=2f6e98d063079070cfb25ce992a60d07&chksm=f20a66a10013e0241e9e1cc2ab2d4bcb91bfb3585fb830e0530a009e8fcba741a637f583f783#rd)
+- 2026-09-07 · [我用 Codex 做了一个 深度数据分析 Skill (已开源）](../../articles/2026/2026-09-07-1533.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485127&idx=1&sn=33a6a264758c5deacb777fae18238fd6&chksm=f2952be952b3e7bbb95da578bc4dd8ce6190ac809c058591ff2f4ea1bda825ad8db99e87d7aa#rd)
 - 2026-08-07 · [我用 Workbuddy 做了一个数据分析完整sop(附课件）](../../articles/2026/2026-08-07-1824.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484757&idx=1&sn=ba39890be7ca3fa348c18dd15589316c&chksm=f2d909098c0fdcad38c3c066f666da33fb00fc08d9712cafeaf5a479a7838e0eebdedb329480#rd)
 - 2026-08-06 · [AI+电商实战：我用 Workbuddy 做了一个商品评价完整分析SOP（附Skill）](../../articles/2026/2026-08-06-1901.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484723&idx=1&sn=aec447bd14e51d52b204de93280688c7&chksm=f2b2372f768fe1fcb80c7b8bfcb684bf55a3036230a6032d37b7b316b0f096ee11e82458c5b9#rd)
 - 2026-07-07 · [AI+电商：我用 Codex 改造了一个数据分析工作流](../../articles/2026/2026-07-07-1757.md) · [原文](https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484487&idx=1&sn=f08fe93d1f49e522c7a0a4e3cf439bf3&chksm=f27692e91c25728f8f210a9df11a7f8270b8fb999f0ec21d9839d44ca355f14b6cf8993a64e0#rd)
