@@ -1,0 +1,8 @@
+我用 Coze 搭了几个文案智能体配置和 PPT 都给你（附完整教程）。
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247483786&idx=1&sn=8154860aba49c306988698f3dcac18af&chksm=f242dff19a069d189efb6f2057adcffc128acca70e775f460b2a5a019c5cafd608b6480bcc59#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

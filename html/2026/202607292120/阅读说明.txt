@@ -1,0 +1,8 @@
+AI +电商实战：如何用 Codex + 影刀RPA优化订单导出流程（一）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484659&idx=1&sn=46b0c60ed014e244f928ce9d3d417f43&chksm=f209bddeda20821ef75b7dea4522c7dca8126dc0de3e1092f546148a78c2a71b2c6734216c1b#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

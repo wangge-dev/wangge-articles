@@ -1,0 +1,8 @@
+AI+电商实战： 如何用 WorkBuddy + 影刀 RPA 优化你的 RPA 流程 （二）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484831&idx=1&sn=2e908a8a26a4d5474a30fb2986194160&chksm=f23091ff879d90c818aa26a844ef811e65a2e77f2834f2d5bcb77864dcd70ea344ee3311d6c8#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

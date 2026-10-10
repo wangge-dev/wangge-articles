@@ -1,0 +1,8 @@
+一篇4000字文章讲清楚 Skill 如何使用/创建,附 Skill 创建完整实操过程
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484362&idx=1&sn=1080d3e53ef5815f889770d461732d07&chksm=f25b9e8b8a600d08ccb49e9702974f249a4f3b13fe5a725c65c32a8cd4886e7862429c860103#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

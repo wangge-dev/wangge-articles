@@ -1,0 +1,8 @@
+AI+办公实战：我用 豆包工作 做了一套飞书协作完整SOP（附Skill）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485006&idx=1&sn=e6c83816e3c283e84db7958d77997cee&chksm=f2860b76496878806e0aeaadf66aed202922235db73a3300fb348e81af2fa34d3cec66268f20#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

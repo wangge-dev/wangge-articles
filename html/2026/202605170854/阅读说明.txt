@@ -1,0 +1,8 @@
+OpenHuman 刚冲上 GitHub 万星：看懂 5 个用法和 OpenClaw / Hermes 有啥不同
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247483925&idx=1&sn=75905fc261fb07bc7d97d3f032a31282&chksm=f2dc67a201670ad214bf8716b8a2c1cca3799c2ed54ba11a7afbb4e8bc74f1551ef3a79b98ed#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

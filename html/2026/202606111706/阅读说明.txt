@@ -1,0 +1,8 @@
+我用 Codex+n8n 搭建了一条内容创作工作流，现在免费分享给你。
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484229&idx=1&sn=4530a012f4943fdfa9f2b872fd4b2ec6&chksm=f2124f9f445229730379fe91b2d251fdc7d139b9d3794eccff4a534721e1e27da0ece822c99c#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

@@ -8,7 +8,10 @@
     "article_path": "articles/2026/2026-02-06-1612.md",
     "cover_path": "covers/2026/202602061612.jpg",
     "image_count": 2,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202602061612/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202602061612.zip",
+    "local_image_count": 0
   },
   {
     "id": "202604112145",
@@ -19,7 +22,10 @@
     "article_path": "articles/2026/2026-04-11-2145.md",
     "cover_path": "covers/2026/202604112145.jpg",
     "image_count": 3,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202604112145/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202604112145.zip",
+    "local_image_count": 0
   },
   {
     "id": "202604131447",
@@ -30,7 +36,10 @@
     "article_path": "articles/2026/2026-04-13-1447.md",
     "cover_path": "covers/2026/202604131447.jpg",
     "image_count": 4,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202604131447/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202604131447.zip",
+    "local_image_count": 0
   },
   {
     "id": "202604160912",
@@ -41,7 +50,10 @@
     "article_path": "articles/2026/2026-04-16-0912.md",
     "cover_path": "covers/2026/202604160912.jpg",
     "image_count": 5,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202604160912/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202604160912.zip",
+    "local_image_count": 0
   },
   {
     "id": "202604170957",
@@ -52,7 +64,10 @@
     "article_path": "articles/2026/2026-04-17-0957.md",
     "cover_path": "covers/2026/202604170957.jpg",
     "image_count": 3,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202604170957/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202604170957.zip",
+    "local_image_count": 0
   },
   {
     "id": "202604210920",
@@ -63,7 +78,10 @@
     "article_path": "articles/2026/2026-04-21-0920.md",
     "cover_path": "covers/2026/202604210920.jpg",
     "image_count": 7,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202604210920/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202604210920.zip",
+    "local_image_count": 4
   },
   {
     "id": "202604221932",
@@ -74,7 +92,10 @@
     "article_path": "articles/2026/2026-04-22-1932.md",
     "cover_path": "covers/2026/202604221932.jpg",
     "image_count": 11,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202604221932/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202604221932.zip",
+    "local_image_count": 7
   },
   {
     "id": "202604231653",
@@ -85,7 +106,10 @@
     "article_path": "articles/2026/2026-04-23-1653.md",
     "cover_path": "covers/2026/202604231653.jpg",
     "image_count": 6,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202604231653/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202604231653.zip",
+    "local_image_count": 3
   },
   {
     "id": "202604251558",
@@ -96,7 +120,10 @@
     "article_path": "articles/2026/2026-04-25-1558.md",
     "cover_path": "covers/2026/202604251558.jpg",
     "image_count": 11,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202604251558/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202604251558.zip",
+    "local_image_count": 7
   },
   {
     "id": "202604261527",
@@ -107,7 +134,10 @@
     "article_path": "articles/2026/2026-04-26-1527.md",
     "cover_path": "covers/2026/202604261527.jpg",
     "image_count": 7,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202604261527/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202604261527.zip",
+    "local_image_count": 5
   },
   {
     "id": "202604271759",
@@ -118,7 +148,10 @@
     "article_path": "articles/2026/2026-04-27-1759.md",
     "cover_path": "covers/2026/202604271759.jpg",
     "image_count": 9,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202604271759/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202604271759.zip",
+    "local_image_count": 6
   },
   {
     "id": "202604291742",
@@ -129,7 +162,10 @@
     "article_path": "articles/2026/2026-04-29-1742.md",
     "cover_path": "covers/2026/202604291742.jpg",
     "image_count": 2,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202604291742/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202604291742.zip",
+    "local_image_count": 0
   },
   {
     "id": "202605021630",
@@ -140,7 +176,10 @@
     "article_path": "articles/2026/2026-05-02-1630.md",
     "cover_path": "covers/2026/202605021630.jpg",
     "image_count": 4,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605021630/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605021630.zip",
+    "local_image_count": 0
   },
   {
     "id": "202605031929",
@@ -151,7 +190,10 @@
     "article_path": "articles/2026/2026-05-03-1929.md",
     "cover_path": "covers/2026/202605031929.jpg",
     "image_count": 4,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605031929/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605031929.zip",
+    "local_image_count": 1
   },
   {
     "id": "202605071734",
@@ -162,7 +204,10 @@
     "article_path": "articles/2026/2026-05-07-1734.md",
     "cover_path": "covers/2026/202605071734.jpg",
     "image_count": 20,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605071734/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605071734.zip",
+    "local_image_count": 16
   },
   {
     "id": "202605091708",
@@ -173,7 +218,10 @@
     "article_path": "articles/2026/2026-05-09-1708.md",
     "cover_path": "covers/2026/202605091708.jpg",
     "image_count": 25,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605091708/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605091708.zip",
+    "local_image_count": 22
   },
   {
     "id": "202605151054",
@@ -184,7 +232,10 @@
     "article_path": "articles/2026/2026-05-15-1054.md",
     "cover_path": "covers/2026/202605151054.jpg",
     "image_count": 10,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605151054/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605151054.zip",
+    "local_image_count": 6
   },
   {
     "id": "202605161047",
@@ -195,7 +246,10 @@
     "article_path": "articles/2026/2026-05-16-1047.md",
     "cover_path": "covers/2026/202605161047.jpg",
     "image_count": 7,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605161047/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605161047.zip",
+    "local_image_count": 4
   },
   {
     "id": "202605170854",
@@ -206,7 +260,10 @@
     "article_path": "articles/2026/2026-05-17-0854.md",
     "cover_path": "covers/2026/202605170854.jpg",
     "image_count": 8,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605170854/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605170854.zip",
+    "local_image_count": 6
   },
   {
     "id": "202605221154",
@@ -217,7 +274,10 @@
     "article_path": "articles/2026/2026-05-22-1154.md",
     "cover_path": "covers/2026/202605221154.jpg",
     "image_count": 9,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605221154/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605221154.zip",
+    "local_image_count": 4
   },
   {
     "id": "202605241256",
@@ -228,7 +288,10 @@
     "article_path": "articles/2026/2026-05-24-1256.md",
     "cover_path": "covers/2026/202605241256.jpg",
     "image_count": 15,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605241256/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605241256.zip",
+    "local_image_count": 10
   },
   {
     "id": "202605251818",
@@ -239,7 +302,10 @@
     "article_path": "articles/2026/2026-05-25-1818.md",
     "cover_path": "covers/2026/202605251818.jpg",
     "image_count": 13,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605251818/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605251818.zip",
+    "local_image_count": 10
   },
   {
     "id": "202605261828",
@@ -250,7 +316,10 @@
     "article_path": "articles/2026/2026-05-26-1828.md",
     "cover_path": "covers/2026/202605261828.jpg",
     "image_count": 17,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605261828/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605261828.zip",
+    "local_image_count": 14
   },
   {
     "id": "202605291051",
@@ -261,7 +330,10 @@
     "article_path": "articles/2026/2026-05-29-1051.md",
     "cover_path": "covers/2026/202605291051.jpg",
     "image_count": 7,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605291051/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605291051.zip",
+    "local_image_count": 5
   },
   {
     "id": "202605310900",
@@ -272,7 +344,10 @@
     "article_path": "articles/2026/2026-05-31-0900.md",
     "cover_path": "covers/2026/202605310900.jpg",
     "image_count": 16,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202605310900/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202605310900.zip",
+    "local_image_count": 11
   },
   {
     "id": "202606021652",
@@ -283,7 +358,10 @@
     "article_path": "articles/2026/2026-06-02-1652.md",
     "cover_path": "covers/2026/202606021652.jpg",
     "image_count": 20,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606021652/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606021652.zip",
+    "local_image_count": 15
   },
   {
     "id": "202606031516",
@@ -294,7 +372,10 @@
     "article_path": "articles/2026/2026-06-03-1516.md",
     "cover_path": "covers/2026/202606031516.jpg",
     "image_count": 10,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606031516/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606031516.zip",
+    "local_image_count": 5
   },
   {
     "id": "202606051052",
@@ -305,7 +386,10 @@
     "article_path": "articles/2026/2026-06-05-1052.md",
     "cover_path": "covers/2026/202606051052.jpg",
     "image_count": 11,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606051052/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606051052.zip",
+    "local_image_count": 8
   },
   {
     "id": "202606061801",
@@ -316,7 +400,10 @@
     "article_path": "articles/2026/2026-06-06-1801.md",
     "cover_path": "covers/2026/202606061801.jpg",
     "image_count": 17,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606061801/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606061801.zip",
+    "local_image_count": 14
   },
   {
     "id": "202606072039",
@@ -327,7 +414,10 @@
     "article_path": "articles/2026/2026-06-07-2039.md",
     "cover_path": "covers/2026/202606072039.jpg",
     "image_count": 11,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606072039/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606072039.zip",
+    "local_image_count": 6
   },
   {
     "id": "202606082208",
@@ -338,7 +428,10 @@
     "article_path": "articles/2026/2026-06-08-2208.md",
     "cover_path": "covers/2026/202606082208.jpg",
     "image_count": 9,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606082208/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606082208.zip",
+    "local_image_count": 4
   },
   {
     "id": "202606092059",
@@ -349,7 +442,10 @@
     "article_path": "articles/2026/2026-06-09-2059.md",
     "cover_path": "covers/2026/202606092059.jpg",
     "image_count": 10,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606092059/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606092059.zip",
+    "local_image_count": 6
   },
   {
     "id": "202606101025",
@@ -360,7 +456,10 @@
     "article_path": "articles/2026/2026-06-10-1025.md",
     "cover_path": "covers/2026/202606101025.jpg",
     "image_count": 20,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606101025/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606101025.zip",
+    "local_image_count": 16
   },
   {
     "id": "202606111706",
@@ -371,7 +470,10 @@
     "article_path": "articles/2026/2026-06-11-1706.md",
     "cover_path": "covers/2026/202606111706.jpg",
     "image_count": 13,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606111706/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606111706.zip",
+    "local_image_count": 10
   },
   {
     "id": "202606121853",
@@ -382,7 +484,10 @@
     "article_path": "articles/2026/2026-06-12-1853.md",
     "cover_path": "covers/2026/202606121853.jpg",
     "image_count": 11,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606121853/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606121853.zip",
+    "local_image_count": 7
   },
   {
     "id": "202606131809",
@@ -393,7 +498,10 @@
     "article_path": "articles/2026/2026-06-13-1809.md",
     "cover_path": "covers/2026/202606131809.jpg",
     "image_count": 12,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606131809/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606131809.zip",
+    "local_image_count": 7
   },
   {
     "id": "202606152142",
@@ -404,7 +512,10 @@
     "article_path": "articles/2026/2026-06-15-2142.md",
     "cover_path": "covers/2026/202606152142.jpg",
     "image_count": 15,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606152142/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606152142.zip",
+    "local_image_count": 10
   },
   {
     "id": "202606161953",
@@ -415,7 +526,10 @@
     "article_path": "articles/2026/2026-06-16-1953.md",
     "cover_path": "covers/2026/202606161953.jpg",
     "image_count": 7,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606161953/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606161953.zip",
+    "local_image_count": 4
   },
   {
     "id": "202606171800",
@@ -426,7 +540,10 @@
     "article_path": "articles/2026/2026-06-17-1800.md",
     "cover_path": "covers/2026/202606171800.jpg",
     "image_count": 11,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606171800/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606171800.zip",
+    "local_image_count": 6
   },
   {
     "id": "202606181519",
@@ -437,7 +554,10 @@
     "article_path": "articles/2026/2026-06-18-1519.md",
     "cover_path": "covers/2026/202606181519.jpg",
     "image_count": 11,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606181519/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606181519.zip",
+    "local_image_count": 7
   },
   {
     "id": "202606201012",
@@ -448,7 +568,10 @@
     "article_path": "articles/2026/2026-06-20-1012.md",
     "cover_path": "covers/2026/202606201012.jpg",
     "image_count": 10,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606201012/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606201012.zip",
+    "local_image_count": 8
   },
   {
     "id": "202606221755",
@@ -459,7 +582,10 @@
     "article_path": "articles/2026/2026-06-22-1755.md",
     "cover_path": "covers/2026/202606221755.jpg",
     "image_count": 23,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606221755/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606221755.zip",
+    "local_image_count": 20
   },
   {
     "id": "202606241737",
@@ -470,7 +596,10 @@
     "article_path": "articles/2026/2026-06-24-1737.md",
     "cover_path": "covers/2026/202606241737.jpg",
     "image_count": 14,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606241737/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606241737.zip",
+    "local_image_count": 10
   },
   {
     "id": "202606261736",
@@ -481,7 +610,10 @@
     "article_path": "articles/2026/2026-06-26-1736.md",
     "cover_path": "covers/2026/202606261736.jpg",
     "image_count": 23,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606261736/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606261736.zip",
+    "local_image_count": 18
   },
   {
     "id": "202606291756",
@@ -492,7 +624,10 @@
     "article_path": "articles/2026/2026-06-29-1756.md",
     "cover_path": "covers/2026/202606291756.jpg",
     "image_count": 39,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202606291756/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202606291756.zip",
+    "local_image_count": 37
   },
   {
     "id": "202607011804",
@@ -503,7 +638,10 @@
     "article_path": "articles/2026/2026-07-01-1804.md",
     "cover_path": "covers/2026/202607011804.jpg",
     "image_count": 4,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202607011804/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202607011804.zip",
+    "local_image_count": 0
   },
   {
     "id": "202607071757",
@@ -514,7 +652,10 @@
     "article_path": "articles/2026/2026-07-07-1757.md",
     "cover_path": "covers/2026/202607071757.jpg",
     "image_count": 23,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202607071757/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202607071757.zip",
+    "local_image_count": 19
   },
   {
     "id": "202607081808",
@@ -525,7 +666,10 @@
     "article_path": "articles/2026/2026-07-08-1808.md",
     "cover_path": "covers/2026/202607081808.jpg",
     "image_count": 15,
-    "has_video": true
+    "has_video": true,
+    "html_path": "html/2026/202607081808/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202607081808.zip",
+    "local_image_count": 13
   },
   {
     "id": "202607131629",
@@ -536,7 +680,10 @@
     "article_path": "articles/2026/2026-07-13-1629.md",
     "cover_path": "covers/2026/202607131629.jpg",
     "image_count": 23,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202607131629/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202607131629.zip",
+    "local_image_count": 21
   },
   {
     "id": "202607151742",
@@ -547,7 +694,10 @@
     "article_path": "articles/2026/2026-07-15-1742.md",
     "cover_path": "covers/2026/202607151742.jpg",
     "image_count": 21,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202607151742/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202607151742.zip",
+    "local_image_count": 16
   },
   {
     "id": "202607172031",
@@ -558,7 +708,10 @@
     "article_path": "articles/2026/2026-07-17-2031.md",
     "cover_path": "covers/2026/202607172031.jpg",
     "image_count": 13,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202607172031/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202607172031.zip",
+    "local_image_count": 9
   },
   {
     "id": "202607241828",
@@ -569,7 +722,10 @@
     "article_path": "articles/2026/2026-07-24-1828.md",
     "cover_path": "covers/2026/202607241828.jpg",
     "image_count": 27,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202607241828/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202607241828.zip",
+    "local_image_count": 23
   },
   {
     "id": "202607271800",
@@ -580,7 +736,10 @@
     "article_path": "articles/2026/2026-07-27-1800.md",
     "cover_path": "covers/2026/202607271800.jpg",
     "image_count": 26,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202607271800/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202607271800.zip",
+    "local_image_count": 23
   },
   {
     "id": "202607292120",
@@ -591,7 +750,10 @@
     "article_path": "articles/2026/2026-07-29-2120.md",
     "cover_path": "covers/2026/202607292120.jpg",
     "image_count": 19,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202607292120/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202607292120.zip",
+    "local_image_count": 14
   },
   {
     "id": "202607311819",
@@ -602,7 +764,10 @@
     "article_path": "articles/2026/2026-07-31-1819.md",
     "cover_path": "covers/2026/202607311819.jpg",
     "image_count": 20,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202607311819/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202607311819.zip",
+    "local_image_count": 15
   },
   {
     "id": "202608061901",
@@ -613,7 +778,10 @@
     "article_path": "articles/2026/2026-08-06-1901.md",
     "cover_path": "covers/2026/202608061901.jpg",
     "image_count": 40,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202608061901/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202608061901.zip",
+    "local_image_count": 35
   },
   {
     "id": "202608071824",
@@ -624,7 +792,10 @@
     "article_path": "articles/2026/2026-08-07-1824.md",
     "cover_path": "covers/2026/202608071824.jpg",
     "image_count": 32,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202608071824/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202608071824.zip",
+    "local_image_count": 27
   },
   {
     "id": "202608212220",
@@ -635,7 +806,10 @@
     "article_path": "articles/2026/2026-08-21-2220.md",
     "cover_path": "covers/2026/202608212220.jpg",
     "image_count": 17,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202608212220/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202608212220.zip",
+    "local_image_count": 12
   },
   {
     "id": "202608241537",
@@ -646,7 +820,10 @@
     "article_path": "articles/2026/2026-08-24-1537.md",
     "cover_path": "covers/2026/202608241537.jpg",
     "image_count": 35,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202608241537/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202608241537.zip",
+    "local_image_count": 30
   },
   {
     "id": "202608252109",
@@ -657,7 +834,10 @@
     "article_path": "articles/2026/2026-08-25-2109.md",
     "cover_path": "covers/2026/202608252109.jpg",
     "image_count": 17,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202608252109/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202608252109.zip",
+    "local_image_count": 12
   },
   {
     "id": "202608302214",
@@ -668,7 +848,10 @@
     "article_path": "articles/2026/2026-08-30-2214.md",
     "cover_path": "covers/2026/202608302214.jpg",
     "image_count": 45,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202608302214/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202608302214.zip",
+    "local_image_count": 40
   },
   {
     "id": "202609022208",
@@ -679,7 +862,10 @@
     "article_path": "articles/2026/2026-09-02-2208.md",
     "cover_path": "covers/2026/202609022208.jpg",
     "image_count": 5,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609022208/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609022208.zip",
+    "local_image_count": 5
   },
   {
     "id": "202609032237",
@@ -690,7 +876,10 @@
     "article_path": "articles/2026/2026-09-03-2237.md",
     "cover_path": "covers/2026/202609032237.jpg",
     "image_count": 12,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609032237/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609032237.zip",
+    "local_image_count": 12
   },
   {
     "id": "202609061058",
@@ -701,7 +890,10 @@
     "article_path": "articles/2026/2026-09-06-1058.md",
     "cover_path": "covers/2026/202609061058.jpg",
     "image_count": 1,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609061058/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609061058.zip",
+    "local_image_count": 1
   },
   {
     "id": "202609071533",
@@ -712,7 +904,10 @@
     "article_path": "articles/2026/2026-09-07-1533.md",
     "cover_path": "covers/2026/202609071533.jpg",
     "image_count": 22,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609071533/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609071533.zip",
+    "local_image_count": 22
   },
   {
     "id": "202609081623",
@@ -723,7 +918,10 @@
     "article_path": "articles/2026/2026-09-08-1623.md",
     "cover_path": "covers/2026/202609081623.jpg",
     "image_count": 14,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609081623/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609081623.zip",
+    "local_image_count": 14
   },
   {
     "id": "202609092137",
@@ -734,7 +932,10 @@
     "article_path": "articles/2026/2026-09-09-2137.md",
     "cover_path": "covers/2026/202609092137.jpg",
     "image_count": 22,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609092137/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609092137.zip",
+    "local_image_count": 22
   },
   {
     "id": "202609102210",
@@ -745,7 +946,10 @@
     "article_path": "articles/2026/2026-09-10-2210.md",
     "cover_path": "covers/2026/202609102210.jpg",
     "image_count": 14,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609102210/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609102210.zip",
+    "local_image_count": 14
   },
   {
     "id": "202609110937",
@@ -756,7 +960,10 @@
     "article_path": "articles/2026/2026-09-11-0937.md",
     "cover_path": "covers/2026/202609110937.jpg",
     "image_count": 18,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609110937/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609110937.zip",
+    "local_image_count": 18
   },
   {
     "id": "202609121042",
@@ -767,7 +974,10 @@
     "article_path": "articles/2026/2026-09-12-1042.md",
     "cover_path": "covers/2026/202609121042.jpg",
     "image_count": 18,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609121042/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609121042.zip",
+    "local_image_count": 18
   },
   {
     "id": "202609151119",
@@ -778,7 +988,10 @@
     "article_path": "articles/2026/2026-09-15-1119.md",
     "cover_path": "covers/2026/202609151119.jpg",
     "image_count": 17,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609151119/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609151119.zip",
+    "local_image_count": 17
   },
   {
     "id": "202609152231",
@@ -789,7 +1002,10 @@
     "article_path": "articles/2026/2026-09-15-2231.md",
     "cover_path": "covers/2026/202609152231.jpg",
     "image_count": 14,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609152231/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609152231.zip",
+    "local_image_count": 14
   },
   {
     "id": "202609172219",
@@ -800,7 +1016,10 @@
     "article_path": "articles/2026/2026-09-17-2219.md",
     "cover_path": "covers/2026/202609172219.jpg",
     "image_count": 11,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609172219/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609172219.zip",
+    "local_image_count": 11
   },
   {
     "id": "202609190923",
@@ -811,7 +1030,10 @@
     "article_path": "articles/2026/2026-09-19-0923.md",
     "cover_path": "covers/2026/202609190923.jpg",
     "image_count": 0,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609190923/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609190923.zip",
+    "local_image_count": 0
   },
   {
     "id": "202609222159",
@@ -822,7 +1044,10 @@
     "article_path": "articles/2026/2026-09-22-2159.md",
     "cover_path": "covers/2026/202609222159.jpg",
     "image_count": 23,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609222159/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609222159.zip",
+    "local_image_count": 23
   },
   {
     "id": "202609241052",
@@ -833,7 +1058,10 @@
     "article_path": "articles/2026/2026-09-24-1052.md",
     "cover_path": "covers/2026/202609241052.jpg",
     "image_count": 28,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609241052/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609241052.zip",
+    "local_image_count": 28
   },
   {
     "id": "202609271740",
@@ -844,7 +1072,10 @@
     "article_path": "articles/2026/2026-09-27-1740.md",
     "cover_path": "covers/2026/202609271740.jpg",
     "image_count": 12,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609271740/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609271740.zip",
+    "local_image_count": 12
   },
   {
     "id": "202609281835",
@@ -855,7 +1086,10 @@
     "article_path": "articles/2026/2026-09-28-1835.md",
     "cover_path": "covers/2026/202609281835.jpg",
     "image_count": 33,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609281835/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609281835.zip",
+    "local_image_count": 33
   },
   {
     "id": "202609291858",
@@ -866,7 +1100,10 @@
     "article_path": "articles/2026/2026-09-29-1858.md",
     "cover_path": "covers/2026/202609291858.jpg",
     "image_count": 7,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202609291858/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202609291858.zip",
+    "local_image_count": 7
   },
   {
     "id": "202610021911",
@@ -877,7 +1114,10 @@
     "article_path": "articles/2026/2026-10-02-1911.md",
     "cover_path": "covers/2026/202610021911.jpg",
     "image_count": 8,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202610021911/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202610021911.zip",
+    "local_image_count": 8
   },
   {
     "id": "202610071749",
@@ -888,7 +1128,10 @@
     "article_path": "articles/2026/2026-10-07-1749.md",
     "cover_path": "covers/2026/202610071749.jpg",
     "image_count": 0,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202610071749/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202610071749.zip",
+    "local_image_count": 0
   },
   {
     "id": "202610081745",
@@ -899,6 +1142,9 @@
     "article_path": "articles/2026/2026-10-08-1745.md",
     "cover_path": "covers/2026/202610081745.jpg",
     "image_count": 7,
-    "has_video": false
+    "has_video": false,
+    "html_path": "html/2026/202610081745/article.html",
+    "html_download_url": "https://github.com/wangge-dev/wangge-articles/releases/download/html-archive/202610081745.zip",
+    "local_image_count": 7
   }
 ]

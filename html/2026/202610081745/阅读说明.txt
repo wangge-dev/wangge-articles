@@ -1,0 +1,8 @@
+2026 最新版 电商 AI 作图 完整指南攻略3.0（附完整提示词和SOP）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s/6_RgkiHLtRJE4Ra1_Nk4Hw
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

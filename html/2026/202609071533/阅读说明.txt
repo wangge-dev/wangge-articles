@@ -1,0 +1,8 @@
+我用 Codex 做了一个 深度数据分析 Skill (已开源）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485127&idx=1&sn=33a6a264758c5deacb777fae18238fd6&chksm=f2952be952b3e7bbb95da578bc4dd8ce6190ac809c058591ff2f4ea1bda825ad8db99e87d7aa#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

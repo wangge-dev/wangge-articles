@@ -1,0 +1,8 @@
+我用 Workbuddy 做了一个数据分析完整sop(附课件）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484757&idx=1&sn=ba39890be7ca3fa348c18dd15589316c&chksm=f2d909098c0fdcad38c3c066f666da33fb00fc08d9712cafeaf5a479a7838e0eebdedb329480#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

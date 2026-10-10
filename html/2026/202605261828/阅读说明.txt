@@ -1,0 +1,8 @@
+最新实测用7个大模型写文案,第一无悬念,Chatgpt竟然掉链子！
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484008&idx=1&sn=ab31382d9502ec49b53abb99fdc97dcf&chksm=f2c6383e1062d5ac890ba920cf195c723abf03edc0fac4c8d7a5f6910a712ea9b204368759b9#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

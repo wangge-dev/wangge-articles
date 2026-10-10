@@ -1,0 +1,8 @@
+我用 Codex 拆解了 20 个视频做出一套数据视频工作流 （一）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484505&idx=1&sn=a2ca4bf0828a134f85f5815558dd895d&chksm=f23e41bbca5af18990d6f0fc47a59da5d51e44f727e0e0a88e0b15aea9673e36060b468d7f7d#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

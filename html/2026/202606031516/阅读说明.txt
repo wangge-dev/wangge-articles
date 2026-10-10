@@ -1,0 +1,8 @@
+这5个 AI+电商 Github仓库你值得拥有
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484099&idx=1&sn=d0805c16ca0602c48b40ae2fe0fe102e&chksm=f27edf01e4f2c4e70d7d68f6b2daca1669ed6779286b7f6428bc628d7c6de1c913b2629c5ac0#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

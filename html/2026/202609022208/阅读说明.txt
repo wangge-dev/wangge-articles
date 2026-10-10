@@ -1,0 +1,8 @@
+分享一个 27.3K Star 开源 GPT-Image-2 提示词库 ：500+ 案例,20+ 模板以及 Skill（商品图/海报/动漫）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485021&idx=1&sn=9656268ab448e5a534c1311fe23cf6af&chksm=f2ebde318d1cdb15e6733f011eb3987c2c56bfe8d29935e9c380e785666fd2d12e7328950c58#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

@@ -1,0 +1,8 @@
+Codex 自动操作 Blender 做电商素材：建模-动画-视频，六大电商场景实操演示（另附跨境电商提示词模板）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s/dfTjSJWsKi1cbPX-Dn7z3A
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

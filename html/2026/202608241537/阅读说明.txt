@@ -1,0 +1,8 @@
+我用 WorkBuddy 一句话跑完了 亚马逊 关键词全链路（10 场景实测：选品→竞品→词库→Listing 方案）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484876&idx=1&sn=7bb01325a94f27a5001a99cd24f44a8f&chksm=f2461d933b8c5e0b848b43ad6c85f6cc7892b9e61a879e3a64e69ba5147c8b3ec2ac76958019#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

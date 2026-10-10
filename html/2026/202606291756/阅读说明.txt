@@ -1,0 +1,8 @@
+如何让 AI 接入的微信群消息做分析报告,提炼干货？（4000字保姆级教程）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484441&idx=1&sn=7ae59e7d462fed2a96b9f0134ad9ee28&chksm=f2b100325e98dfa7a75e03e3d3043c23e1d10bd9dfc06653bad03db702cb1ca5c716d7d80750#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

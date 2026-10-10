@@ -1,0 +1,8 @@
+用国产之光 ：Workbuddy 搭建了一个AI+电商运营顾问团
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484611&idx=1&sn=7fc748119ec0a02dfef2c5c1b3a38a79&chksm=f2fd29c7aae967d0910c17ecb03ccc7f7b51fd28ee9f6cd7fb734386efab815c6b5c1eb768eb#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

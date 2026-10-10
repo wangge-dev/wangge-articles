@@ -1,0 +1,8 @@
+Claude Fable 5 刚发布，我拿几个真实场景测了一遍（含电商场景附完整测试提示词）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484197&idx=1&sn=fa4753246579ab8209a77bf85371f3ae&chksm=f2c4a948394a8f3524b43a6f92dca7932bfd5882917aa3f41c821a0e56f7f70075de28e26f74#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

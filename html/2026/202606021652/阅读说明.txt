@@ -1,0 +1,8 @@
+AI电商实战教程：从0开始用 Codex+飞书 搭建小数据中台（附完整 SOP和资料包）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484088&idx=1&sn=482f86a0c015e8419defacf96ecae6d9&chksm=f290490a483a557afd6400d84b9c655d5ef670f82ab920deb441fa552ffe55fdeb5197e1ed65#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

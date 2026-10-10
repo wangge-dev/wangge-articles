@@ -1,0 +1,8 @@
+给团队人员做的电商AI作图出图完整攻略（现免费分享给大家使用）总结版
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247483692&idx=1&sn=9e7c2f5f495d82233037395c1ed083b8&chksm=f2668741239405e1c2669b1c858d38f1c106cba32ad66c65a2132cd1d5dac5b840f4c58cd31a#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

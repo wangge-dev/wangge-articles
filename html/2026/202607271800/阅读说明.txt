@@ -1,0 +1,8 @@
+我用 Codex 手搓了一套抓取工作流 : 电商，飞书，微信，网页全搞定
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484639&idx=1&sn=2c95ed24b4a9c5409ae7ef5c4d116aa6&chksm=f2b89e4ffb510e4553f528978b12387d50ddc40db5d24661a43be2b3cf052c195fd13acca6cb#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

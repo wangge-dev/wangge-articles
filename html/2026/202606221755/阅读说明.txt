@@ -1,0 +1,8 @@
+实测6个小红书Skill : 分析 / 搜索 / 研究/写作/ 自动化 / 全链路希望能帮到你
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484338&idx=1&sn=ef0c7b8375ec05cc8259fd7ce0229834&chksm=f2f72e53372e62dd0d3452b1b4c3c6196fff3d988a54e812f08e0a6bf4ad93ae2718021f33eb#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

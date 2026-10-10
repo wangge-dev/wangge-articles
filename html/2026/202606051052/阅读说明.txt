@@ -1,0 +1,8 @@
+这 6 个 GitHub 仓库，让你的 Codex 真正好用起来
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484115&idx=1&sn=c71179355429ee837db2849a4adc4763&chksm=f2b72ae6699500a1f1929ad037fc44974414b6fd54d9e9e4bcd73d89b5bb640b90d75120a163#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

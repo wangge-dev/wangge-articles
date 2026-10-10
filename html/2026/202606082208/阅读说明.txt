@@ -1,0 +1,8 @@
+我用 Codex 蒸馏了 5 个同行竞品，做出一张电商打法地图
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484156&idx=1&sn=c279469f73dc2bb630cef05ac78ea770&chksm=f2dfc4f7c21519afbf97ee831b3f99fe0237e02b296c6304d685aa86cccadc5ed757bd49ef0d#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

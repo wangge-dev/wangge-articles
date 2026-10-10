@@ -1,0 +1,8 @@
+我用GPT-Image-2 把最普通的商品跑出了七种花样（附完整提示词以及可以白嫖的网站）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247483764&idx=1&sn=d9c2d18620e9f0c8e6cf09f35b1caf26&chksm=f2456a3539941562fc7ad76f9b58a9c57e3dd75f312354cf3bab5b34e406953da4a2c2c4e511#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

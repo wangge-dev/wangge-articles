@@ -1,0 +1,8 @@
+亚马逊评论不用一条条翻了：只需输入一个 ASIN，自动输出商品深度评论分析报告
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s/KvsgVsnoLFxBQtoU5_uFyw
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

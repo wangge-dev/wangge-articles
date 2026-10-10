@@ -1,0 +1,8 @@
+AI+电商：我用 Codex 改造了一个数据分析工作流
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484487&idx=1&sn=f08fe93d1f49e522c7a0a4e3cf439bf3&chksm=f27692e91c25728f8f210a9df11a7f8270b8fb999f0ec21d9839d44ca355f14b6cf8993a64e0#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

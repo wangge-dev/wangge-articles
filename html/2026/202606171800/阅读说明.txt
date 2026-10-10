@@ -1,0 +1,8 @@
+粉丝必看：Codex分享包的网址变更以及给Workbuddy适配的分享包
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484284&idx=1&sn=2a84530427faeec8df0704db2a011080&chksm=f2dcffa16a5d6c90d93c728fa255394b6e46330ef1dcb6e5a4fdfde8750965b2d7e79192064d#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

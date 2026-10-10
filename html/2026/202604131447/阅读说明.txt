@@ -1,0 +1,8 @@
+测了 15+ 个AI视频工具电商能用的就这几个（附总结推荐）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247483672&idx=1&sn=21fdf6b05a8c6623f02587a424fd1241&chksm=f2cc7d9efccf836df372d8b98375e1181e04a6addb6041a50f18927870410cd20e6df2b57bba#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

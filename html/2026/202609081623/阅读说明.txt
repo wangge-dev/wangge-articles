@@ -1,0 +1,8 @@
+AI 电商实战：我用 WorkBuddy 搭建了一个电商情报站SOP，附 (完整提示词)
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247485161&idx=1&sn=2f6e98d063079070cfb25ce992a60d07&chksm=f20a66a10013e0241e9e1cc2ab2d4bcb91bfb3585fb830e0530a009e8fcba741a637f583f783#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

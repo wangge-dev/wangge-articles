@@ -1,0 +1,8 @@
+分享一个 Skill :输入工具/软件名称自动生成完整教程报告
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484296&idx=1&sn=6e33e22d7049531ab847aaffe804d642&chksm=f2799a325757957948920d3941a1cd6a3fd1fee97019fe77f5a91e85f677839936533e6fe965#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

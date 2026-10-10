@@ -1,0 +1,8 @@
+3000字教你如何用 Workbuddy 跑自动化任务? 三大场景实战 （附完整提示词）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484893&idx=1&sn=fde4a594197c960efdc126a49dfc1205&chksm=f2dcab6f5843309663fc857b4662b6642f4e9f4c612bf248c2a5fcbff11d206fcdb6a39e9599#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

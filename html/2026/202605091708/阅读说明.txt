@@ -1,0 +1,8 @@
+5000字教你入门github仓库，新手小白看这篇就行了（从看会到搭建仓库完整流程）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247483857&idx=1&sn=0895c9cd3765f40ad11ce7fc2e642a0c&chksm=f2dbfe74dc15be0badf52ec7befc8632dfd2f72e5e3366d7c0809858460eee8b19f3058260cb#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

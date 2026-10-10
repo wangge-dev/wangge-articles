@@ -1,0 +1,8 @@
+别只用豆包了电商人必知的5个AI工具（附推荐案例直接抄）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247483774&idx=1&sn=3a17f044b250ee3ba4ed569021417d92&chksm=f28ba8aee83538e08c6ca22a6cfe206ac840deb78d2687ab9ca4f3f53a8bd90192be456b4cd4#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

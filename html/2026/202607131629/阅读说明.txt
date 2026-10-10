@@ -1,0 +1,8 @@
+如何提高 Codex 的审美? 这五种方法让你的 Codex 审美提高一个档次
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484533&idx=1&sn=cc152a93792d47b4d127538878af3200&chksm=f254e6a39b5f392f22be8399ac7e569fb74b131ca8d3f064349035ad7bd68366a2676953f344#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

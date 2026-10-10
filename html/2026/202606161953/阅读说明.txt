@@ -1,0 +1,8 @@
+电商主图详情页诊断Skill :输入商品链接自动生成主图详情页诊断报告
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247484273&idx=1&sn=af96ded2f1f505e20a120e88c08492e1&chksm=f23ae7967cfb34b1908874ce3d57f22a03fc611cf5cf5ad688e06c9d983c601193d2a5151648#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。

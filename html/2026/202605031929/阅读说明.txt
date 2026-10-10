@@ -1,0 +1,8 @@
+教你怎么设置电商违禁词AI防火墙（附完整搭建流程）
+
+解压整个 ZIP，再双击 article.html，用浏览器阅读。请保留 images 文件夹。
+图片可离线查看；视频和小程序在公众号原文中查看。
+原文：https://mp.weixin.qq.com/s?__biz=MzY4NDA4MDUwMA==&mid=2247483800&idx=1&sn=46d5e8edc16277742ea301b120c174d9&chksm=f2cf61ae32688df8b2313e45a71eaa5795bdda472694f38f7e168441cc91afc9aa716dd8c643#rd
+
+HTML 正文与样式来自已有原网页，非 Markdown 重新转换；只增加阅读页头、移除页面控件和本地化图片。
+正文与配图许可：CC BY-NC-ND 4.0。
